@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tohak\\source\\repos\\ejercicio6-tema2-AntonMario-14-G\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E91FBE2-219B-4480-8388-15028E872274}|ejercicio6-tema2-AntonMario-14-G\\ejercicio6-tema2-AntonMario-14-G.vcxproj|C:\\Users\\tohak\\source\\repos\\ejercicio6-tema2-AntonMario-14-G\\ejercicio6-tema2-AntonMario-14-G\\ejercicio6-tema2-AntonMario-14-G.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E91FBE2-219B-4480-8388-15028E872274}|ejercicio6-tema2-AntonMario-14-G\\ejercicio6-tema2-AntonMario-14-G.vcxproj|solutionrelative:ejercicio6-tema2-AntonMario-14-G\\ejercicio6-tema2-AntonMario-14-G.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ejercicio6-tema2-AntonMario-14-G.cpp",
+              "DocumentMoniker": "C:\\Users\\tohak\\source\\repos\\ejercicio6-tema2-AntonMario-14-G\\ejercicio6-tema2-AntonMario-14-G\\ejercicio6-tema2-AntonMario-14-G.cpp",
+              "RelativeDocumentMoniker": "ejercicio6-tema2-AntonMario-14-G\\ejercicio6-tema2-AntonMario-14-G.cpp",
+              "ToolTip": "C:\\Users\\tohak\\source\\repos\\ejercicio6-tema2-AntonMario-14-G\\ejercicio6-tema2-AntonMario-14-G\\ejercicio6-tema2-AntonMario-14-G.cpp",
+              "RelativeToolTip": "ejercicio6-tema2-AntonMario-14-G\\ejercicio6-tema2-AntonMario-14-G.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-25T15:23:39.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tohak\\source\\repos\\aer-293\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{630ADB05-970E-433D-93AB-C4ADD6992DA9}|aer-293\\aer-293.vcxproj|C:\\Users\\tohak\\source\\repos\\aer-293\\aer-293\\aer-293.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{630ADB05-970E-433D-93AB-C4ADD6992DA9}|aer-293\\aer-293.vcxproj|solutionrelative:aer-293\\aer-293.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "aer-293.cpp",
+              "DocumentMoniker": "C:\\Users\\tohak\\source\\repos\\aer-293\\aer-293\\aer-293.cpp",
+              "RelativeDocumentMoniker": "aer-293\\aer-293.cpp",
+              "ToolTip": "C:\\Users\\tohak\\source\\repos\\aer-293\\aer-293\\aer-293.cpp",
+              "RelativeToolTip": "aer-293\\aer-293.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-26T17:37:46.717Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
