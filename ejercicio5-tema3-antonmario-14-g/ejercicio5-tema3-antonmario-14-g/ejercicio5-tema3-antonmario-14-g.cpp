@@ -16,6 +16,32 @@ int main()
     cout << "Introduzce un Caracter: ";
     cin >> c;
 
+    cout << "Caracter " << c;
+    if (isalnum(c)) {
+        cout << " es alphanumerico";
+        
+        if (isalpha(c)) {
+            cout << " y es una letra";
+
+            if (islower(c))
+                cout << " minuscula";
+            else if (isupper(c))
+                cout << " mayuscula";
+            else
+                cout << " que no sea ni minuscula ni mayuscula";
+        }
+        else if (isdigit(c)) {
+            cout << " y es un digito";
+        }
+        else
+            cout << " y no es ni una letra ni un digito";
+    }
+    else
+        cout << " no es alphanumerico";
+
+    cout << "." << endl;
+
+    return 0;
 }
 
 bool isupper(char c) {
@@ -27,9 +53,13 @@ bool islower(char c) {
 }
 
 bool isdigit(char c) {
-    return c >= '0' && c <= '1';
+    return c >= '0' && c <= '9';
 }
 
 bool isalpha(char c) {
+    return islower(c) || isupper(c);
+}
 
+bool isalnum(char c) {
+    return isalpha(c) || isdigit(c);
 }
